@@ -67,7 +67,6 @@ body{
 }
 
 .home-cont-1{
-    /* border: 2px solid red; */
     height: 500px;
     width: 500px;
     position: absolute;
@@ -83,9 +82,11 @@ body{
     font-size: 53px;
     font-weight: 600;
 }
-
+.para{
+    text-align: justify;
+}
 .btn-read{
-    width: 200px;
+    width: 270px;
     background-color: #6eff00;
     margin-top: 40px;
     font-weight: bold;
